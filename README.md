@@ -1,0 +1,1 @@
+An Application that keeps track of all the latest Technology News around the World and also notifies if specified, by integratring different soureces.
